@@ -19,6 +19,12 @@ public class StudentInformationSystem {
         // Calculate Total Mark
         int total = mark1 + mark2;
         
+        // Display the first mark
+        System.out.println("Mark 1: " + mark1);
+
+        // Display the second mark
+        System.out.println("Mark 2: " + mark2);
+        
         // Display Total Mark
         System.out.println("Total Mark: " + total);
         
